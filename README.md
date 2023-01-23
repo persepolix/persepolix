@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hallo world, I am Elena 
+### :heart: I am passionate about biology and data science
 
 <!--
 **persepolix/persepolix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
