@@ -1,7 +1,7 @@
 ### 👋 Hallo world, I am Elena 
 ### :heart: I am passionate about Biology and Data Science
 ### :computer: I am going to finish soon a MS in Life Science Informatics, with a thesis project focused on Chemoinformatics
-### :orange_book: I am currently updating my portfolio with nice and interested project I worked on 
+### :orange_book: I am currently updating my portfolio with nice and interesting project I worked on 
 
 <!--
 **persepolix/persepolix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
