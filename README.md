@@ -1,6 +1,6 @@
 ### 👋 Hallo world, I am Elena 
 ### :heart: I am passionate about Biology and Data Science
-### :computer: I am going to finish soon a MS in Life Science Informatics
+### :computer: I have just concluded a MS in Life Science Informatics at the University of Bonn, Germany
 ### :orange_book: I am currently updating my portfolio with nice and interesting projects I worked on 
 
 
